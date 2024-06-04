@@ -1,0 +1,860 @@
+@media screen and (min-width: 1400px) {
+    body {
+        font-size: 1.125rem;
+    }
+
+    .page-banner .caption h2 {
+        font-size: 2.5rem;
+        line-height: 3.125rem;
+    }
+
+    .banner .caption p {
+        font-size: 1.5rem;
+        line-height: 1.975rem;
+    }
+
+    .banner .caption h2 {
+        line-height: 3.125rem;
+    }
+
+    .btn {
+        font-size: 1.125rem;
+        line-height: 1.688rem;
+    }
+
+    .section-heading h3 {
+        font-size: 2.5rem;
+        line-height: 2.375rem;
+    }
+
+    .h4,
+    h4 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    .invite .invite-info p {
+        line-height: 1.75rem;
+    }
+
+    .congress-themes .card-title {
+        font-size: 1.125rem;
+        line-height: 1.063rem;
+    }
+
+    .congress-themes .card-subtitle {
+        font-size: 1.5rem;
+        line-height: 1.75rem;
+    }
+
+    .congress-themes .card .card-text {
+        font-size: 1.125rem;
+        line-height: 1.5rem;
+    }
+
+    .congress-venue .img-info {
+        font-size: 1.125rem;
+        line-height: 1.5;
+    }
+
+    #timeline .timeline-item .timeline-content h2,
+    #timeline .timeline-item .timeline-content p {
+        font-size: 1.3rem;
+        line-height: 1.438rem;
+    }
+
+    .newsletter label {
+        font-size: 1.125rem;
+        line-height: 1.063rem;
+    }
+
+    .form-control {
+        font-size: 1.125rem;
+        line-height: 1.375rem;
+    }
+
+    .footer .pre-footer h3 {
+        font-size: 1.5rem;
+        line-height: 1.438rem;
+    }
+
+    .footer .pre-footer-link li a {
+        font-size: 0.875rem;
+        line-height: 1.625rem;
+    }
+
+    .footer h3.footer-primary-header {
+        font-size: 20px;
+        line-height: 1.438rem;
+    }
+
+    .footer h3.address-header {
+        font-size: 1.125rem;
+        line-height: 1.063rem;
+    }
+
+    .footer .footer-address p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .footer .social-media h5 {
+        font-size: 1.125rem;
+        line-height: 1.688rem;
+    }
+
+    .footer .copyright {
+        font-size: 1rem;
+        line-height: 1.375rem;
+    }
+
+    .genric-copy h3 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    .genric-copy h5 {
+        font-size: 1.5rem;
+        line-height: 1.75rem;
+    }
+
+    .genric-copy p {
+        font-size: 1.125rem;
+        line-height: 1.475rem;
+    }
+
+    .image-left-col .image-info p {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+    }
+
+    .image-left-col .image-info article[data-readmore]+a,
+    .image-right-col .image-info article[data-readmore]+a {
+        font-size: 1.125rem;
+        line-height: 1.375rem;
+    }
+
+    .image-right-col .image-info p {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+    }
+
+    .news-update .card-subtitle {
+        font-size: 1.5rem;
+        line-height: 1.438rem;
+    }
+
+    .news-update .card .card-text {
+        font-size: 1.125rem;
+        line-height: 1.375rem;
+    }
+
+    .history .link {
+        line-height: 1.438rem;
+    }
+
+    .visiting-adnec .t-info h4 {
+        font-size: 1.5rem;
+        line-height: 1.438rem;
+    }
+
+    .visiting-adnec .t-info p {
+        font-size: 1.2rem;
+        line-height: 1.75rem;
+    }
+
+    .gmaps .info {
+        font-size: 1.2rem;
+        line-height: 1.75rem;
+    }
+
+    .places-intreast .info {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+    }
+
+    .ad-cards .media h5 {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+
+    .ad-cards .media p {
+        font-size: 1.125rem;
+        line-height: 1.375rem;
+    }
+
+    .ad-places .section-heading p {
+        line-height: 1.75rem;
+    }
+
+    .ad-places .card-subtitle a {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+
+    .news-update .card-link {
+        font-size: 1.125rem;
+        line-height: 1.375rem;
+    }
+
+    section.committee p {
+        line-height: 1.475rem;
+        font-size: 1.125rem;
+    }
+
+    section.committee div.card-body a {
+        font-size: 1.125rem;
+        line-height: 1.375rem;
+    }
+
+    article {
+        overflow: hidden !important;
+        max-height: 6em;
+    }
+}
+
+@media (max-width: 1376px) {
+ .card-body {
+   padding: 0.25rem;
+    }
+     article {
+        overflow: hidden !important;
+        max-height: 5em;
+    }
+}
+
+@media (max-width: 1279px) {
+    .socialMedia ul li {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .committee .user-card .user-img {
+        max-width: 200px;
+        max-height: 200px;
+    }
+
+    .news-img {
+        text-align: center;
+    }
+
+    .news-img img {
+        padding-top: 20px;
+    }
+
+    .news-img img {
+        height: auto;
+    }
+
+}
+
+@media (max-width: 1199px) {
+    .prefered_hotels_wrap .prefered_hotels_head .row>div:first-child .heading {
+        padding: 15px 10px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_head {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .title_head {
+        font-size: 20px;
+        line-height: 20px;
+        padding: 14px 25px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row>div:first-child .hotels {
+        padding-left: 10px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .hotels,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .signleRoom,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .doubleRoom,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .bookNow {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 25px 0px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row .bookNow a {
+        font-size: 14px;
+    }
+
+    .featured_hotels_Wrap .card .card-body {
+        padding-top: 23px;
+        padding-bottom: 23px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .card-title {
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .ratings ul li {
+        width: 20px;
+        height: 20px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .ratings ul li i {
+        width: 20px;
+        height: 20px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .showOnMap {
+        margin-top: 10px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .card-text {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .roomDetails {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .cardFooter .btn {
+        padding: 8px 10px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .organisers figure.block-image img {
+        max-width: 260px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .wrapper {
+        max-width: 90%;
+    }
+
+    .invite-info {
+        padding-right: 2rem !important;
+        margin: 0 !important;
+    }
+
+    .congress-themes .card {
+        height: auto !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .prefered_hotels_wrap .prefered_hotels_head {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .title_head {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .hotels,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .signleRoom,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .doubleRoom,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .bookNow {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 20px 0px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row .bookNow a {
+        font-size: 12px;
+    }
+
+    .organisers figure.block-image img {
+        max-width: 192px;
+    }
+}
+
+@media (max-width: 767px) {
+    .cg-themes-footer .col:last-child{
+        display: none;
+    }
+    
+    .visiting-adnec .t-info {
+        text-align: center;
+    }
+
+    .ad-places .section-heading p {
+        max-width: 100%;
+    }
+
+    .mob-scroll {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow: auto;
+    }
+
+    .ad-cards .media {
+        flex-direction: column;
+    }
+
+    .ad-cards .img {
+        width: 100%;
+    }
+
+    .ad-cards .media img {
+        max-width: 200px;
+        max-height: 200px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .desktop-img {
+        display: none !important;
+    }
+
+    .mob-img {
+        display: block !important;
+    }
+
+    .page-banner .banner-item,
+    .page-banner {
+        height: 280px;
+        /* min-height: auto; */
+    }
+
+    .committee .user-card {
+        flex-direction: column;
+    }
+
+    .committee .user-card .user-img {
+        /* max-width: 100%; */
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+
+    .program-tabs .nav-tabs .nav-item.show .nav-link,
+    .program-tabs .nav-tabs .nav-link.active {
+        padding: 1rem 2rem;
+    }
+
+    .scrtabs-tab-container,
+    .scrtabs-tab-scroll-arrow {
+        min-height: 94px;
+        padding-top: 0;
+    }
+
+    .program-tabs .tab-content table tr th,
+    .program-tabs .tab-content table tr td {
+        display: block;
+        width: 100%;
+        border: 0;
+        padding: 10px 10px;
+    }
+
+    .program-tabs .tab-content table tr td:last-child {
+        border-bottom: 1px solid #eee;
+        padding-bottom: 25px;
+    }
+
+    .m-text-center {
+        text-align: center;
+    }
+
+    .program-tabs .nav-tabs {
+        overflow: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .program-tabs .nav-tabs .nav-link {
+        /* min-width: 200px; */
+    }
+
+    .footer {
+        padding: 40px 0 !important;
+    }
+
+    .footer h3.footer-primary-header {
+        text-align: center;
+        margin: 25px 0 15px 0;
+    }
+    .footer ul.pre-footer-link {
+        
+        display: flex;
+        gap: 8px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .section-heading h3 {
+        font-size: 1.5rem;
+    }
+
+    .banner,
+    .banner .banner-item {
+        min-height: 200px;
+        height: auto;
+    }
+
+    .banner .caption h2 {
+        font-size: 2rem;
+    }
+
+    .patronage-ruler {
+        /* display: none; */
+    }
+
+    .last-footer {
+        justify-content: center !important;
+        margin-top: 20px !important;
+    }
+
+    .social-media,
+    .copyright {
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100%;
+    }
+.footer .copyright {
+    margin-top:10px;
+}
+    .weecNetwork,
+    .envAgancy {
+        border: 0 !important;
+        /* border-bottom: 1px solid #dcdcdc; */
+        /* padding-top: 1rem; */
+        /* padding-bottom: 1rem; */
+        max-width: 96%;
+        margin: 0 auto;
+    }
+
+    .footer-logo,.footer .court {
+        min-height: auto;
+        margin: 10px auto;
+        width: 250px !important;
+    }
+
+    .congress-venue .img-info {
+        margin-top: 0;
+        margin-right: 0%;
+        max-width: 100%;
+        float: none;
+    }
+
+    .congress-venue .img-block img {
+        max-width: 100%;
+    }
+
+    .menu-wrap {
+        /* width: auto; */
+        border-left: 0 !important;
+        border-top: 1px solid #eee;
+    }
+
+    .weec-info span {
+        font-size: 0.650rem;
+    }
+
+    button.navbar-toggler {
+        /*position: absolute;*/
+        left: 0;
+        top: 72px;
+        border: 0;
+    }
+
+    .navbar-light .navbar-brand {
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .navbar-light .navbar-brand img {
+        max-width: 150px;
+    }
+
+    .newsletter .form-check {
+        text-align: left;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        text-align: left;
+        align-items: flex-start;
+    }
+
+    .navbar-nav li {
+        width: 100%;
+        margin: 0 !important;
+    }
+
+    .navbar {
+        padding: 0.5rem 0;
+    }
+
+    .login,
+    .contact {
+        display: none;
+    }
+
+    header .search .search-input-elm {
+        top: 2px;
+    }
+
+    header .search .search-btn span {
+        display: inline-block;
+    }
+
+    header .search .search-btn i {
+        font-size: 14px;
+    }
+
+    header .search .search-input-elm {
+        width: 250px;
+    }
+
+    header .search .search-btn {}
+
+    .image-left-col .col-md-5,
+    .image-left-col .col-md-7,
+    .image-right-col .col-md-5,
+    .image-right-col .col-md-7 {
+        max-width: 100%;
+    }
+
+    .image-right-col .image-info,
+    .image-left-col .image-info {
+        margin: 0 !important;
+        padding: 1.5rem;
+        margin-bottom: 30px !important;
+        min-height: auto !important;
+    }
+
+    .news-update .card {
+        margin-bottom: 1rem;
+    }
+
+    .history .link {
+        font-size: 1.2rem;
+    }
+
+    .page-banner .banner-item::before {
+        width: 68px;
+        height: 69px;
+        background: url(../images/Flower_Crop_Mobile.png) no-repeat;
+    }
+
+    .hotels_partners .wrapper {
+        max-width: 100%;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_head {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_head .row .heading {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_head .row>div:first-child .heading {
+        padding: 15px 10px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_head .row>div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .title_head {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 10px 15px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row>div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .hotels,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .signleRoom,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .doubleRoom,
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .bookNow {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 14px 0px;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row .col-6,
+    .prefered_hotels_wrap .prefered_hotels_head .row .col-6 {
+        -ms-flex: 0 0 36%;
+        flex: 0 0 36%;
+        max-width: 36%;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row .col-2,
+    .prefered_hotels_wrap .prefered_hotels_head .row .col-2 {
+        -ms-flex: 0 0 18%;
+        flex: 0 0 18%;
+        max-width: 18%;
+    }
+
+    .prefered_hotels_wrap .prefered_hotels_body .hotels_type .row div.col-2:last-child,
+    .prefered_hotels_wrap .prefered_hotels_head .row div.col-2:last-child {
+        -ms-flex: 0 0 28%;
+        flex: 0 0 28%;
+        max-width: 28%;
+    }
+
+    .featured_hotels_Wrap .card .card-image {}
+
+    .featured_hotels_Wrap .card .col-7 {
+        padding-left: 15px;
+    }
+
+    .featured_hotels_Wrap .card .card-body {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .card-title {
+        font-size: 18px;
+        line-height: 18px;
+        margin-bottom: 4px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .ratings ul li {
+        width: 15px;
+        height: 15px;
+        margin-right: 3px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .ratings ul li i {
+        width: 15px;
+        height: 15px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .showOnMap {
+        margin-top: 8px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .card-text {
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 8px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .roomDetails {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 8px;
+    }
+
+    .featured_hotels_Wrap .card .card-body .cardFooter .btn {
+        padding: 2px 10px;
+        font-size: 12px;
+        line-height: 15px;
+        display: block;
+    }
+
+    .main_partners {
+        padding-top: 40px;
+    }
+
+    figure.block-image img {
+        max-width: 264px;
+    }
+
+    .programme_partners {
+        padding-top: 40px;
+    }
+
+    .programme-partners-sm-carousel figure.block-image {
+        text-align: center;
+    }
+
+    /*=== Media ===*/
+    .mediaLatstStories .mediaLatstStories_cards {
+        padding-bottom: 24px;
+    }
+
+    .mediaLatstStories .mediaLatstStories_cards .card {
+        margin-bottom: 48px;
+    }
+
+    .mediaLatstStories .mediaLatstStories_cards .card .card-body {
+        padding: 28px;
+    }
+
+    .mediaLatstStories .mediaLatstStories_cards .card .card-body .card-text {
+        margin-top: 8px;
+    }
+
+    .mediaResources .mediaResources_cards {
+        padding-bottom: 10px;
+    }
+
+    .mediaResources .mediaResources_cards .card {
+        margin-bottom: 34px;
+    }
+
+    .mediaResources .mediaResources_cards .card .card-body {
+        padding: 22px 22px;
+    }
+
+    .mediaResources .mediaResources_cards .card .card-subtitle {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .mediaEnquiries {
+        font-size: 18px;
+    }
+
+    .mediaEnquiries .section-heading {
+        text-align: left;
+        padding-bottom: 20px;
+    }
+
+    .mediaEnquiries p {
+        margin-bottom: 1rem;
+    }
+
+    .socialMedia ul li {
+        width: 60px;
+        height: 60px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .socialMedia ul li i.facebook {
+        background-size: 13px;
+    }
+
+    .socialMedia ul li i.instagram {
+        background-size: 20px;
+    }
+
+    .socialMedia ul li i.linkedin {
+        background-size: 22px;
+    }
+
+    .socialMedia ul li i.twitter {
+        background-size: 22px;
+    }
+}
+
+@media (max-width:575px) {
+    .banner-item h2 {
+        font-size: 30px !important;
+    }
+    .abstract-toolbar {
+        flex-direction: column;
+    }
+    .abstract-toolbar button {
+    }
+}

@@ -1,0 +1,129 @@
+[33mcommit 8ac87c4d0b89886f1585878f28120f9228ff371f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: c245eb5 0cf6b13
+Author: Praveen Balakrishnan <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sun Jun 2 14:11:32 2024 +0530
+
+    Merge pull request #5 from pravikrishna/pravikrishna-patch-1
+    
+    Update committee.html
+
+[33mcommit 0cf6b134bf7acced6a4db197cf8b4e8042bb222c[m
+Merge: 855f79a c245eb5
+Author: Praveen Balakrishnan <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sun Jun 2 14:10:38 2024 +0530
+
+    Merge branch 'master' into pravikrishna-patch-1
+
+[33mcommit c245eb53f075a3e59bafbd057beccc9303b7def7[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sun Jun 2 14:09:25 2024 +0530
+
+    Update committee.html
+
+[33mcommit 855f79aa4ce520cd59ec02600d3e08dc6c304f66[m
+Author: Praveen Balakrishnan <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sun Jun 2 14:08:26 2024 +0530
+
+    Update committee.html
+
+[33mcommit 6e12059b1781d687535fa7c2409d6e2b4e12802d[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sun Jun 2 14:07:15 2024 +0530
+
+    Revert "Update committee.html"
+    
+    This reverts commit 9a11e94cfbed551ce6935f9f9854b1466104783c.
+
+[33mcommit 9a11e94cfbed551ce6935f9f9854b1466104783c[m
+Author: Praveen Balakrishnan <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sun Jun 2 13:19:52 2024 +0530
+
+    Update committee.html
+
+[33mcommit 969fee994ec7cf6a68b0f9a8cfbd054c27c33b4c[m[33m ([m[1;33mtag: [m[1;33mJune[m[33m)[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sun Jun 2 10:49:33 2024 +0530
+
+    Update gallery.html
+    
+    2024 added
+
+[33mcommit 51bf02eb80d44f008a97053838d8f452af1a3ad9[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sun Jun 2 10:46:40 2024 +0530
+
+    Update media.html
+    
+    changed to 5555
+
+[33mcommit f84e7a54f8359bb27fa103b955e49255f092708c[m
+Merge: 627ba97 6fece08
+Author: pravikrishna <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sun Jun 2 10:39:16 2024 +0530
+
+    Merge pull request #2 from pravikrishna/pravikrishna-patch-1
+    
+    Update media.html
+
+[33mcommit 6fece08af134db3cd2b2d43ddbaf758f987c8a8a[m
+Author: pravikrishna <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sun Jun 2 10:29:57 2024 +0530
+
+    Update media.html
+
+[33mcommit 627ba976a68cbe4712f806865d4f0dff4cc2950d[m
+Author: pravikrishna <40974627+pravikrishna@users.noreply.github.com>
+Date:   Sat Jun 1 17:35:34 2024 +0530
+
+    Update media.html
+    
+    edited number
+
+[33mcommit 3a23320a9528c0a0add6c7bcd41883f538ca9c90[m
+Merge: 7ddeca7 26e6233
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 17:13:44 2024 +0530
+
+    conflix fixed
+
+[33mcommit 7ddeca7f91f5e7381169d4946a02eb561337797b[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 17:10:17 2024 +0530
+
+    number changed
+
+[33mcommit 26e62334372d12ebb1f4ecad465cea9f29180132[m[33m ([m[1;32mUpdateFile[m[33m)[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 17:06:22 2024 +0530
+
+    Updated to 1000
+
+[33mcommit 4bc6d3cc3ae8524f0306bb8afffb9805acd44122[m[33m ([m[1;32mFixError2[m[33m)[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 16:56:22 2024 +0530
+
+    msg
+
+[33mcommit 0e099fa34e1e8cc1f1996f62330d38fe1176040b[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 12:25:52 2024 +0530
+
+    file name changed
+
+[33mcommit 178211e7bb1edd1a5b6926425053b6a50e2ce9a3[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 12:10:44 2024 +0530
+
+    changed
+
+[33mcommit 196680eda8853d0b67ec658f780d0d4e9c7a58f2[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 12:08:11 2024 +0530
+
+    venue.html chagned
+
+[33mcommit 5e330d72817a2d75e9fae0cb6fe7bba6a8669f3c[m
+Author: Praveen Balakrishnan <pravi.krishna@gmail.com>
+Date:   Sat Jun 1 12:04:53 2024 +0530
+
+    initial commit
